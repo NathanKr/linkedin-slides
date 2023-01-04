@@ -19,5 +19,8 @@ This is a respository for slides that i use in linkedin posts
     <td><a href='https://www.linkedin.com/posts/nathankrasney_dark-mode-slides-activity-7015625204001304576-Vtz8?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
   <tr>
- </tr>
+    <td>linkedin skills assessments</td>
+ <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/linkedin-skills-assessment.pdf'>slide link</a></td>  
+    <td><a href='https://www.linkedin.com/posts/nathankrasney_linkedin-skills-assessment-slides-activity-7016268563988525056-xAwL?utm_source=share&utm_medium=member_desktop'>post link</a></td>
+  </tr>
 </table>
