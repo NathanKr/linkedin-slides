@@ -23,4 +23,9 @@ This is a respository for slides that i use in linkedin posts
  <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/linkedin-skills-assessment.pdf'>slide link</a></td>  
     <td><a href='https://www.linkedin.com/posts/nathankrasney_linkedin-skills-assessment-slides-activity-7016268563988525056-xAwL?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
+  <tr>
+    <td>Webpack</td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/webpack.pdf'>slide link</a></td>
+    <td><a href='https://www.linkedin.com/posts/nathankrasney_webpack-slides-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA-activity-7020989518681915392-2K5O?utm_source=share&utm_medium=member_desktop'>post link</a></td>
+  </tr>
 </table>
