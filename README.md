@@ -33,7 +33,11 @@ This is a respository for slides that i use in linkedin posts
     <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/mongo-db-indexes.pdf'>slide link</a></td>
     <td><a href='https://www.linkedin.com/posts/nathankrasney_mongodb-indexes-activity-7021769143318122496-g3ts?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
-
+  <tr>
+    <td>האם אתם צריכים את SQL server או MongoDb בשלב מוקדם בפרויקט ?</td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/google-sheets-api.pdf'>google-sheets-api slide link</a> <a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/google-workspace-api.pdf'>google-workspace-api slide link</a></td>
+    <td><a href='https://www.linkedin.com/posts/nathankrasney_google-sheets-api-slide-activity-7035507435851132928-9inZ?utm_source=share&utm_medium=member_desktop'>post link</a></td>
+  </tr>
 
 
 </table>
