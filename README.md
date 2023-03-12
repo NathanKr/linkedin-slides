@@ -38,6 +38,12 @@ This is a respository for slides that i use in linkedin posts
     <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/google-sheets-api.pdf'>google-sheets-api slide link</a> <a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/google-workspace-api.pdf'>google-workspace-api slide link</a></td>
     <td><a href='https://www.linkedin.com/posts/nathankrasney_google-sheets-api-slide-activity-7035507435851132928-9inZ?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
+<tr>
+    <td>איך לשאול שאלות בפרויקט open source ?</td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/contribute-to-open-source-project-next.js.pdf'>google-sheets-api slide link</a> <a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/google-workspace-api.pdf'>google-workspace-api slide link</a></td>
+    <td><a href='https://www.linkedin.com/posts/nathankrasney_slides-activity-7040632102567985153-e8F8?utm_source=share&utm_medium=member_desktop'>post link</a></td>
+  </tr>
 
 
 </table>
+
