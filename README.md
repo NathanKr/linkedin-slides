@@ -49,5 +49,13 @@ This is a respository for slides that i use in linkedin posts
     <td><a href='https://www.linkedin.com/posts/nathankrasney_slides-github-branch-protection-rules-activity-7041365360410832896-WSTq?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
 
+<tr>
+    <td>Mutation Observer</td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/mutation-observer.pdf'>slide link</a></td>
+    <td><a href='https://www.linkedin.com/posts/nathankrasney_mutation-observer-slides-activity-7052584553831395328-EGEa?utm_source=share&utm_medium=member_desktop
+'>post link</a></td>
+  </tr>
+
+
 </table>
 
