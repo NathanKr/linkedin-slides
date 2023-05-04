@@ -56,6 +56,11 @@ This is a respository for slides that i use in linkedin posts
 '>post link</a></td>
   </tr>
 
+<tr>
+    <td>Svelte</td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/svelte.pdf'>slide link</a></td>
+    <td><a href='https://www.linkedin.com/posts/nathankrasney_svelte-slides-activity-7059741179986272256-xsVi?utm_source=share&utm_medium=member_desktop'>post link</a></td>
+  </tr>
 
 </table>
 
