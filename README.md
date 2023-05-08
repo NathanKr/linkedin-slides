@@ -62,5 +62,11 @@ This is a respository for slides that i use in linkedin posts
     <td><a href='https://www.linkedin.com/posts/nathankrasney_svelte-slides-activity-7059741179986272256-xsVi?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
 
+  <tr>
+    <td>Cloudinary</td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/cloudinary.pdf'>slide link</a></td>
+    <td><a href='https://www.linkedin.com/posts/nathankrasney_cloudinary-slides-activity-7061184004783316992-H1bC?utm_source=share&utm_medium=member_desktop'>post link</a></td>
+  </tr>
+
 </table>
 
