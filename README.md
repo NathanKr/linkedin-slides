@@ -73,5 +73,11 @@ This is a respository for slides that i use in linkedin posts
     <td><a href='https://www.linkedin.com/posts/nathankrasney_slides-react-documentary-activity-7065794360524644352-E70W?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
 
+  tr>
+    <td>rollup</td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/rollup.pdf'>slide link</a></td>
+    <td><a href=''>post link</a></td>
+  </tr>
+
 </table>
 
