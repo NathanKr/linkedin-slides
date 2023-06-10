@@ -83,6 +83,10 @@ This is a respository for slides that i use in linkedin posts
     <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/zod.pdf'>slide link</a></td>
     <td><a href='https://www.linkedin.com/posts/nathankrasney_zod-slides-activity-7070347786893836288-JXgH?utm_source=share&utm_medium=member_desktop'>post link</a></td>
   </tr>
-
+<tr>
+    <td>node --watch </td>
+    <td><a href='https://github.com/NathanKr/linkedin-slides/blob/main/slides/node--watch.pdf'>slide link</a></td>
+    <td><a href='https://www.linkedin.com/feed/update/urn:li:ugcPost:7073358435928412160/'>post link</a></td>
+  </tr>
 </table>
 
